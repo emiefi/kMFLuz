@@ -1,0 +1,9 @@
+name: kMFLuzGUI
+version: 1.0
+main: br.com.emiefi.kmfluzgui.main
+description: Plugin de /luz em gui menu
+author: yemiefi
+commands:
+   luz:
+      description: ativa ou desativa a luz
+      usage: /luz
